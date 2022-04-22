@@ -19,16 +19,16 @@ from datetime import timedelta
 import plotly.graph_objects as go
 
 
-consumer_api_key = "lHhuoIVHfKeh0anXYU44dBPnl"
-consumer_api_key_secret = "ds85MhwhdTCw1HqNJzTDp6RGjme3QtEU7yU94YyuaTwrBrP7KL"
+consumer_api_key = "private"
+consumer_api_key_secret = "private"
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAM16bgEAAAAAmjQvlB5Cx1ionozswVNx6y9ktNI%3DttLDul66dRCXMU7ZkeKW1M4UBBwq0XTdVoukWLynROljcwIbdk"
+bearer_token = "private"
 
-client_id = "Nks0bkI0SmJRZHI5MWlmcnFCZU06MTpjaQ"
-client_id_secret = "2FLODlmTjSWgAqxdLKs5Dwr8nbexb6v40xWQ0FctMPjfEsD4Pr"
+client_id = "private"
+client_id_secret = "private"
 
-access_token = "3257421576-ZT4Fl19jGVt9MjTDbc7cn9pBUoatJsf0Leefnrs"
-access_token_secret = "zNr7SDV3J3LjwVEVTCsyK8XS3kGXxRbW8L6Iy1bAeJNpG"
+access_token = "private"
+access_token_secret = "private"
 
 auth = tweepy.OAuthHandler(consumer_api_key, consumer_api_key_secret)
 auth.set_access_token(access_token, access_token_secret)
