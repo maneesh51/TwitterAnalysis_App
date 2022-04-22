@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Sentiment analysis of tweets
 
 <p align="center">
 <img src="https://github.com/maneesh51/TwitterSentimentAnalysis/blob/main/F1.PNG" width="400">
