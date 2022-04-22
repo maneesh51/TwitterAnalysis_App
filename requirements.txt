@@ -1,0 +1,7 @@
+matplotlib==3.5.1
+numpy==1.22.3
+plotly==5.7.0
+st_annotated_text==3.0.0
+streamlit==1.7.0
+textblob==0.15.3
+tweepy==3.10.0
